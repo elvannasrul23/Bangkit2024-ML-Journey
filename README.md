@@ -7,9 +7,13 @@ In this week I finished Matriculation Courses:
 -Learn Basic Git and Github  
 
 ## Week 1
-In this week, first time I see my study group's folks (ML-61) and my mentor kak Nisrina Qurratu Aini. And this is the first ILT in Bangkit timeline.  
+### 18 September 2024
+In this day, first time I see my study group's folks (ML-61) and my mentor kak Nisrina Qurratu Aini. And this is the first ILT in Bangkit timeline.  
 This ILT is about SoftSkill which is really help me. The ILT detail is :  
-*_ILT-SS-01-BV • Growth Mindset and The Power of Feedback by kak Nuikita Wachid_*
+*_ILT-SS-01-BV • Growth Mindset and The Power of Feedback by kak Nuikita Wachid_*  
+### 20 September 2024
+In this day, I meet my study group's folks (ML-61) and my mentor kak Nisrina Qurratu Aini again for weekly consultation. We are introduce each other and share our progress.  
+My mentor answer questions form the study group .
 
 ## Week 2
 
