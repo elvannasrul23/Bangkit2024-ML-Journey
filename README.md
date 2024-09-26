@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/af9d4cc9-6ee3-41d9-bbd0-ff06e518b78f)![image](https://github.com/user-attachments/assets/1baf5160-690f-4f91-9c8f-bad7ad99e59a)# Bangkit2024-ML-Journey  
+# Bangkit2024-ML-Journey  
 
 ## Week 0
 In this week I finished Matriculation Courses:  
