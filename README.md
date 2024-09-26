@@ -1,4 +1,4 @@
-# Bangkit2024-ML-Journey  
+![image](https://github.com/user-attachments/assets/af9d4cc9-6ee3-41d9-bbd0-ff06e518b78f)![image](https://github.com/user-attachments/assets/1baf5160-690f-4f91-9c8f-bad7ad99e59a)# Bangkit2024-ML-Journey  
 
 ## Week 0
 In this week I finished Matriculation Courses:  
@@ -17,6 +17,8 @@ My mentor answer questions form the study group .
 ### 23 September 2024  
 This day, we learn about basic python. It's kinda give me flashback when I was leaning programming for the first time. The ILT detail is :  
 *_ILT-ML-01-AG • Understanding the Basics of Python Programming by kak Ariyadi_*
+### 26 September 2024
+Alhamdulillah, yeah I finnaly completed course "Crash Course on Python" in Coursera.
 
 ## Week 2
 
