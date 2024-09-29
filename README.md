@@ -18,7 +18,9 @@ My mentor answer questions form the study group .
 This day, we learn about basic python. It's kinda give me flashback when I was leaning programming for the first time. The ILT detail is :  
 *_ILT-ML-01-AG • Understanding the Basics of Python Programming by kak Ariyadi_*
 ### 26 September 2024
-Alhamdulillah, yeah I finnaly completed course "Crash Course on Python" in Coursera.
+Alhamdulillah, yeah I finnaly completed course "Crash Course on Python" in Coursera.  
+### 29 September 2024  
+Alhamdulillah, yeah I finnaly completed another course in Cousera for "Using Python to Interact with OS".  
 
 ## Week 2
 
